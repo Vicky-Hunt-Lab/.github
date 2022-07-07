@@ -1,4 +1,4 @@
-## Vicky Hunt Lab
+## About Our Work
 
 We want to understand how parasitic nematodes infect their host at a molecular and genetic level.
 Our research investigates the protein-coding genes and the small RNAs that have a role in nematode parasitism.
